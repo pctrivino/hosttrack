@@ -1,0 +1,4 @@
+#hostname#,in_ivnm,date_ivnm,in_dhq,date_dhq,in_mecm,date_mecm,in_ad,date_ad
+host1,no,4/21/21,yes,4/23/21,no,4/1/21,yes,3/1/21
+host2,yes,04/28/21,yes,4/23/21,yes,04/28/21,yes,3/1/21
+host3,no,4/21/21,yes,4/23/21,no,4/1/21,yes,3/1/21
